@@ -1,0 +1,32 @@
+# Monochrome Dark (Ghostty)
+
+window-colorspace = "display-p3"
+
+background = #101010
+foreground = #EBEBEB
+
+cursor-color = #AAAAAA
+cursor-text = #101010
+
+selection-background = #1D1D1D
+selection-foreground = #B4B4B4
+
+# --- Palette (same as light theme) ---
+
+palette = 0=#EBEBEB
+palette = 1=#E5484D
+palette = 2=#1A9338
+palette = 3=#E79C13
+palette = 4=#0091FF
+palette = 5=#8E4EC6
+palette = 6=#0C9784
+palette = 7=#3C3C3C
+
+palette = 8=#D5D5D5
+palette = 9=#822025
+palette = 10=#126427
+palette = 11=#693F05
+palette = 12=#0A4481
+palette = 13=#5F2D84
+palette = 14=#085E53
+palette = 15=#101010

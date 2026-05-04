@@ -1,0 +1,34 @@
+# Monochrome Light (Ghostty)
+
+window-colorspace = "display-p3"
+
+background = #EBEBEB
+foreground = #686868
+
+cursor-color = #515151
+cursor-text = #EBEBEB
+
+selection-background = #DEDEDE
+selection-foreground = #474747
+
+# --- Palette ---
+# Order: black, red, green, amber, blue, purple, teal, white (0–7)
+#        bright black → bright white (8–15)
+
+palette = 0=#EBEBEB
+palette = 1=#E5484D
+palette = 2=#1A9338
+palette = 3=#E79C13
+palette = 4=#0091FF
+palette = 5=#8E4EC6
+palette = 6=#0C9784
+palette = 7=#3C3C3C
+
+palette = 8=#D5D5D5
+palette = 9=#822025
+palette = 10=#126427
+palette = 11=#693F05
+palette = 12=#0A4481
+palette = 13=#5F2D84
+palette = 14=#085E53
+palette = 15=#101010
