@@ -30,7 +30,6 @@ alias gst="git status"
 alias ga="git add"
 alias gaa="git add -A"
 alias gc="git commit -m"
-alias gld="git log --oneline HEAD...main"
 alias k="kubectl"
 alias cc="claude --dangerously-skip-permissions"
 
